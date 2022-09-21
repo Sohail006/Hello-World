@@ -46,9 +46,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+-I would like to thanks to my team members and Microvere for contributing in solving this project.
 
 ## 📝 License
 
